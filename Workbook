@@ -1,0 +1,3 @@
+# Workbook
+cd 01-intro
+jupyter notebook
