@@ -1,0 +1,6 @@
+artifact_location: file:///Users/dao/local/mlops/module3/mlops-zoomcamp/03-orchestration/mlruns/132144110689697072
+creation_time: 1751637676921
+experiment_id: '132144110689697072'
+last_update_time: 1751637676921
+lifecycle_stage: active
+name: prefect-taxi-experiment

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dao/local/mlops/module3/mlops-zoomcamp/03-orchestration/mlruns/132144110689697072/4ba25fcd1b7b4a1d8fb46946fab8900f/artifacts
+end_time: 1751637680195
+entry_point_name: ''
+experiment_id: '132144110689697072'
+lifecycle_stage: active
+run_id: 4ba25fcd1b7b4a1d8fb46946fab8900f
+run_name: bouncy-hog-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751637677214
+status: 3
+tags: []
+user_id: dao
