@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  localstack:
+    image: localstack/localstack:3       # latest v3 tag
+    container_name: localstack
+    environment:
+      - SERVICES=s3                      # start only S3
+      - DEFAULT_REGION=us-east-1
+      - LS_LOG=info
+    ports:
+      - "4566:4566"                      # edge port (all services)
+    volumes:
+      - "./localstack-data:/var/lib/localstack"   # keep data between restarts
